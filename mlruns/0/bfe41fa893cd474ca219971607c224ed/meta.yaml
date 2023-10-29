@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PASCAL/Red_wine_quality_prediction/mlruns/0/bfe41fa893cd474ca219971607c224ed/artifacts
+end_time: 1698540587947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfe41fa893cd474ca219971607c224ed
+run_name: unique-asp-720
+run_uuid: bfe41fa893cd474ca219971607c224ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698540578331
+status: 3
+tags: []
+user_id: PASCAL
