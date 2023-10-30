@@ -1,6 +1,6 @@
 # Red_wine_quality_prediction
 
-## Workflows
+## Workflows to follow for the project
 
 1. Update config.yaml
 2. Update schema.yaml
